@@ -3,9 +3,9 @@ Project of the Udacity Fullstack Developer Nano Degree Program.
 Baseline installation of a Linux distribution on a virtual machine to host web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
 
 ## Reviewer access:
-1. IP address: http://13.250.39.154
+1. IP address: http://54.169.53.13
 2. SSH port: 2200
-3. Complete URL: http://ec2-13-250-39-154.ap-southeast-1.compute.amazonaws.com
+3. Complete URL: http://ec2-54-169-53-13.ap-southeast-1.compute.amazonaws.com
 
 ### Summary of software installed
 Wine Catalog Application: https://github.com/c0pypasten1nja/catalog2
